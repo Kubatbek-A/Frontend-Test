@@ -1,0 +1,48 @@
+
+.how-it-works {
+  clip-path: polygon(0 0, 22% 0, 26% 5%, 85% 5%, 100% 5%, 100% 85%, 100% 100%, 85% 100%, 15% 100%, 0 100%, 0% 85%);  background-color: #ffffff;
+  height: 100vh;
+  border-radius: 15px;
+  margin-top: -60px;
+  color: #2B307A;
+
+  & > p {
+    font-family: 'Prompt', sans-serif;
+    padding-top: 15px;
+    padding-left: 45px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    h2 {
+      font-family: 'Prompt', sans-serif;
+      font-weight: 500;
+      font-size: 52px;
+      line-height: 79px;
+      margin: 0;
+    }
+
+    p {
+      font-family: 'Lato';
+      font-size: 18px;
+      line-height: 26px;
+    }
+
+    .try-btn {
+      padding: 14px 30px;
+      background: #2B307A;
+      border: none;
+      color: #ffffff;
+      border-radius: 5px;
+      font-family: 'Lato';
+      font-weight: 500;
+      margin-top: 30px;
+    }
+  }
+}

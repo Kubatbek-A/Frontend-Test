@@ -1,5 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Prompt:wght@400;500&display=swap');
 
 body { 
   margin: 0;
+  background: linear-gradient(2.6deg, rgba(224, 226, 255, 0.3) 70.67%, rgba(253, 241, 255, 0.3) 85.15%, rgba(255, 255, 255, 0.3) 100.83%), #FFFFFF;
+}
+
+p {
+  margin: 0;
+  padding: 0;
 }
