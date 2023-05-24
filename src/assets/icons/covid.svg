@@ -1,0 +1,38 @@
+<svg width="120" height="119" viewBox="0 0 120 119" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_1_1143)">
+<ellipse cx="60" cy="59.4393" rx="60" ry="59.4393" fill="white"/>
+</g>
+<circle cx="58.0268" cy="58.893" r="22.5786" fill="#F9F7FF"/>
+<path d="M80.6075 43.1308C83.8163 47.4028 85.7177 52.7129 85.7177 58.4671C85.7177 72.5839 74.2738 84.0278 60.1571 84.0278C46.0403 84.0278 34.5964 72.5839 34.5964 58.4671C34.5964 44.3504 46.0403 32.9065 60.1571 32.9065C65.3831 32.9065 70.2428 34.4749 74.2913 37.1666" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<path d="M47.3769 31.2027L52.3945 39.498" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<path d="M30.0162 58.8627L39.709 58.665" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<path d="M33.3409 42.3844L41.834 47.0596" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="44.3946" cy="25.6646" r="4.89016" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="23.7291" cy="58.6759" r="4.89016" transform="rotate(-60 23.7291 58.6759)" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="27.9891" cy="39.0794" r="4.89016" transform="rotate(-30 27.9891 39.0794)" stroke="#D9DCFF" stroke-width="3"/>
+<path d="M35.109 75.6256L42.415 69.2529" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<path d="M48.5438 87.5235L51.6846 78.3516" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="30.1683" cy="79.5178" r="4.89016" transform="rotate(-99.9285 30.1683 79.5178)" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="46.211" cy="93.3645" r="4.89016" transform="rotate(-129.928 46.211 93.3645)" stroke="#D9DCFF" stroke-width="3"/>
+<path d="M85.6691 73.3203L76.8423 69.3108" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<path d="M69.3236 86.3693L65.8931 77.3018" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="91.2587" cy="76.2052" r="4.89016" transform="rotate(145.598 91.2587 76.2052)" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="50.2953" cy="50.3097" r="4.89016" transform="rotate(145.598 50.2953 50.3097)" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="67.3358" cy="56.2745" r="4.89016" transform="rotate(145.598 67.3358 56.2745)" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="54.5557" cy="67.3497" r="4.89016" transform="rotate(145.598 54.5557 67.3497)" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="71.2526" cy="92.3561" r="4.89016" transform="rotate(-169.555 71.2526 92.3561)" stroke="#D9DCFF" stroke-width="3"/>
+<path d="M90.2079 53.4047L80.6758 55.1731" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<path d="M70.4509 30.8102L67.2163 39.9495" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<path d="M84.6966 39.7347L77.3257 46.0322" stroke="#D9DCFF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="96.4421" cy="52.5686" r="4.89016" transform="rotate(110.658 96.4421 52.5686)" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="72.8436" cy="24.993" r="4.89016" transform="rotate(50.6583 72.8436 24.993)" stroke="#D9DCFF" stroke-width="3"/>
+<circle cx="89.6771" cy="35.8925" r="4.89016" transform="rotate(80.6583 89.6771 35.8925)" stroke="#D9DCFF" stroke-width="3"/>
+<defs>
+<filter id="filter0_b_1_1143" x="-7" y="-7" width="134" height="132.878" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="3.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_1143"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_1143" result="shape"/>
+</filter>
+</defs>
+</svg>

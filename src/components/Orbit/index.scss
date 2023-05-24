@@ -1,0 +1,69 @@
+#circle-orbit-container {
+  position: relative;
+  top: 25px;
+}
+
+.inner-orbit,
+.middle-orbit,
+.outer-orbit,
+.inner-orbit__stomach-icon,
+.inner-orbit__covid-icon,
+.middle-orbit__lash-icon,
+.outer-orbit__sperm-icon,
+.outer-orbit__infection-icon {
+  position: absolute;
+}
+
+.inner-orbit {
+  top: 123px;
+  left: 50%;
+  transform: translate(-50%);
+  width: 780px;
+  height: 779px;
+  border: 2px #ffffff solid;
+  border-radius: 100%;
+
+  &__stomach-icon {
+    top: 420px;
+    right: -65px;
+  }
+
+  &__covid-icon {
+    top: 295px;
+    left: -57px;
+  }
+}
+
+.middle-orbit {
+  top: 61px;
+  left: 50%;
+  transform: translate(-50%);
+  width: 902px;
+  height: 903px;
+  border: 2px #ffffff solid;
+  border-radius: 100%;
+
+  &__lash-icon {
+    top: 240px;
+    right: 7px;
+  }
+}
+
+.outer-orbit {
+  top: 0;
+  left: 50%;
+  transform: translate(-50%);
+  width: 1024px;
+  height: 1027px;
+  border: 2px #ffffff solid;
+  border-radius: 100%;
+
+  &__sperm-icon {
+    top: 119px;
+    left: 70px;
+  }
+
+  &__infection-icon {
+    top: 657px;
+  }
+}
